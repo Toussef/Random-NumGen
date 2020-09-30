@@ -1,4 +1,4 @@
-#Generate a random number based on the number given on the user. Up to 5 charecters.
+#Generate a random number based on the number given on the user. Up to 5 charecters. For now
 import random
 print("Hello!\nInput the number of numbers you'd like to see as the output!(up to 5 numbers)")
 uInput = int(input())
