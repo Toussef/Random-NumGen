@@ -14,11 +14,11 @@ elif uInput == 2:
     print(b)
 
 elif uInput == 3:
-    c = random.randit(100,999)
+    c = random.randint(100,999)
     print(c)
     
 elif uInput == 4:
-    d = random.randit(1000,9999)
+    d = random.randint(1000,9999)
     print(d)
 
 elif uInput == 5:
